@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\Curs4\Curs4\bin\Debug\Curs4.exe.config
+D:\Visual Studio Projects\Curs4\Curs4\bin\Debug\Curs4.exe
+D:\Visual Studio Projects\Curs4\Curs4\bin\Debug\Curs4.pdb
+D:\Visual Studio Projects\Curs4\Curs4\obj\Debug\Curs4.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Curs4\Curs4\obj\Debug\Curs4.exe
+D:\Visual Studio Projects\Curs4\Curs4\obj\Debug\Curs4.pdb
