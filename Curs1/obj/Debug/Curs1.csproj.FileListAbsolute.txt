@@ -1,6 +1,0 @@
-D:\Visual Studio Projects\Curs1\Curs1\bin\Debug\Curs1.exe.config
-D:\Visual Studio Projects\Curs1\Curs1\bin\Debug\Curs1.exe
-D:\Visual Studio Projects\Curs1\Curs1\bin\Debug\Curs1.pdb
-D:\Visual Studio Projects\Curs1\Curs1\obj\Debug\Curs1.csprojResolveAssemblyReference.cache
-D:\Visual Studio Projects\Curs1\Curs1\obj\Debug\Curs1.exe
-D:\Visual Studio Projects\Curs1\Curs1\obj\Debug\Curs1.pdb
