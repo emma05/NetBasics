@@ -1,0 +1,17 @@
+﻿@model IEnumerable<MVC_Course_8_1.Models.ProjectEvaluation>
+@{
+    Layout = "~/Views/Shared/_LayoutEvaluation.cshtml";
+}
+@{
+    ViewBag.Title = "Index";
+}
+
+@foreach (var item in Model)
+{
+    @Html.Partial("~/Views/Evaluation/_Evaluation.cshtml", item)
+
+}
+
+@section test{
+<h3>Total no of evaluations: @Model.Count()</h3>
+}
